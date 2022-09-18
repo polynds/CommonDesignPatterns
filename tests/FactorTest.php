@@ -14,11 +14,11 @@ use PHPUnit\Framework\TestCase;
  */
 class FactorTest extends TestCase
 {
-    public function testFactor()
+    public function testCase1Factor()
     {
-        $man = Factor::createMan();
+        $man = Case1\Factor::createMan();
         $man->marry();
-        $women = Factor::createWomen();
+        $women = Case1\Factor::createWomen();
         $women->marry();
 
         $this->assertTrue(true);

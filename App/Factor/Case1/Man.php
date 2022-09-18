@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-namespace App\Factor;
+namespace App\Factor\Case1;
 
 class Man implements PeopleInterface
 {
