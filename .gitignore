@@ -1,6 +1,12 @@
-/vendor/
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+vendor/
+.phpintel/
+.DS_Store
+.phpunit*
 *.lock
-.php-cs-fixer.php
-phpstan.neon
-.idea
-phpstan-baseline.neon
+*.cache

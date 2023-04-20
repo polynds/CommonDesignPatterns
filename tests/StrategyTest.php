@@ -6,8 +6,8 @@ declare(strict_types=1);
  */
 namespace Strategy;
 
-use App\Strategy\StrategyContext;
-use App\Strategy\TYpeEnum;
+use CommonDesignPatterns\Strategy\StrategyContext;
+use CommonDesignPatterns\Strategy\TYpeEnum;
 use PHPUnit\Framework\TestCase;
 
 /**

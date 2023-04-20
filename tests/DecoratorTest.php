@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-namespace App\Decorator;
+namespace CommonDesignPatterns\Decorator;
 
 use PHPUnit\Framework\TestCase;
 

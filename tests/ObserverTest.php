@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-namespace App\Observer;
+namespace CommonDesignPatterns\Observer;
 
 use PHPUnit\Framework\TestCase;
 

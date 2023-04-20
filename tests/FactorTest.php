@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-namespace App\Factor;
+namespace CommonDesignPatterns\Factor;
 
 use PHPUnit\Framework\TestCase;
 

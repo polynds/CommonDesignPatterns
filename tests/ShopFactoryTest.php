@@ -4,8 +4,8 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-use App\Factor\Case2\CommodityType;
-use App\Factor\Case2\ShopFactory;
+use CommonDesignPatterns\Factor\Case2\CommodityType;
+use CommonDesignPatterns\Factor\Case2\ShopFactory;
 use PHPUnit\Framework\TestCase;
 
 /**

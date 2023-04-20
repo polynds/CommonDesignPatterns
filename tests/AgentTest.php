@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * happy coding.
  */
-namespace App\Proxy\StaticProxy;
+namespace CommonDesignPatterns\Proxy\StaticProxy;
 
 use PHPUnit\Framework\TestCase;
 
